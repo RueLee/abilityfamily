@@ -1,0 +1,4 @@
+# This site is in early development and we are disallowing any crawlers until further implementations have been made.
+# Check back in the meantime as this rule is subject to change.
+User-agent: *
+Disallow: /
